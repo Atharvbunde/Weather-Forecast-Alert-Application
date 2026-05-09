@@ -110,34 +110,29 @@ The project generates:
 * Weather visualization charts
 
 Generated files are stored inside:
-
-```text
-images/
-outputs/
 ## Project Screenshots
 
 ### Weather Output
 
-![Weather Output](images/weather%20output.png)
+![Weather Output](images/whether_output.png)
 
 ---
 
 ### Weather Visualization Chart
 
-![Weather Chart](images/weather_chart_20260509_104341.png)
+![Weather Chart](images/weather_chart_20260509_104116.png)
 
 ---
 
 ### Generated CSV Report
 
-![CSV Report](images/Generated%20CSV%20report.png)
+![CSV Report](images/Generated_CSV_report.png)
 
 ---
 
 ### Generated CSV Report 2
 
-![CSV Report 2](images/Generated%20CSV%20report%201.png)
-```
+![CSV Report ](images/Generated_CSV_report_1.png)
 
 ---
 
