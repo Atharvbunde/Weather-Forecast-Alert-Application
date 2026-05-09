@@ -114,25 +114,28 @@ Generated files are stored inside:
 
 ### Weather Output
 
-![Weather Output](images/weather_output.png)
+![Weather Output](images/whether_output.png)
 
 ---
 
 ### Weather Visualization Chart
 
-![Weather Chart](images/weather_chart.png)
+![Weather Chart](images/weather_chart_20260509_104116.png)
 
 ---
 
 ### Generated CSV Report
 
-![CSV Report](images/csv_report.png)
+![CSV Report](images/Generated_CSV_report_1.png)
 
 ---
 
 ### Generated CSV Report 2
 
-![CSV Report 2](images/csv_report2.png)
+![CSV Report ](images/csv_report2.png)
+
+---
+![CSV Report ](images/Generated_CSV_report.png)
 
 ---
 
