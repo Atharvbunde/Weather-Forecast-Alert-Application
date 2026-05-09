@@ -114,7 +114,7 @@ Generated files are stored inside:
 
 ### Weather Output
 
-![Weather Output](images/whether_output.png)
+![Weather Output](images/whether output.png)
 
 ---
 
@@ -126,16 +126,13 @@ Generated files are stored inside:
 
 ### Generated CSV Report
 
-![CSV Report](images/Generated_CSV_report_1.png)
+![CSV Report](images/Generated CSV report.png)
 
 ---
 
 ### Generated CSV Report 2
 
-![CSV Report ](images/csv_report2.png)
-
----
-![CSV Report ](images/Generated_CSV_report.png)
+![CSV Report ](images/Generated CSV report 1.png)
 
 ---
 
